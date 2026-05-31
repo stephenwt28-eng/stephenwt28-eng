@@ -23,7 +23,7 @@ I'm always open to discussing software development, product design, and new oppo
 **Technologies and tools**
 
 Languages: JavaScript, TypeScript, SQL
-Technologies: Next.js, React, Node.js, Supabase, Tailwind CSS
+Technologies: Next.js, React, Node.js, Postgres, Supabase, CSS
 Tools: Git, GitHub, VS Code, Figma
 
 **How to find me**
