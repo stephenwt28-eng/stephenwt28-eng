@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hello world, I'm Stephen Tobin!
 
-<!--
-**stephenwt28-eng/stephenwt28-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer | Cal State San Marcos Graduate, Summa Cum Laude
 
-Here are some ideas to get you started:
+I build full-stack web applications with clean architecture and sharp UX. My background in Art, Media & Design (Summa Cum Laude) gives me a designer's eye for detail and a developer's discipline for structure. I focus on shipping real products that solve real problems — from subscription platforms to business management tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I do**
+
+Currently based in California, building projects and sharpening my full-stack skills:
+
+- Building full-stack applications with Next.js, Supabase, and Tailwind CSS
+- Developing a Cat Food Subscription App with customizable meal plans, delivery scheduling, and simulated checkout
+- Building a Task Manager with user authentication, task creation, due dates, and completion tracking
+- Working on VisionManager, an optical business management system for a Brazilian client
+- Building LearningTracker, a private dashboard for tracking topics, progress, and confidence with Row Level Security
+
+**A bit more about me**
+
+When I'm not coding, I'm thinking about how to make software that actually helps people. I believe good design is invisible — the best interfaces are the ones users don't have to think about.
+
+I'm always open to discussing software development, product design, and new opportunities.
+
+**Technologies and tools**
+
+Languages: JavaScript, TypeScript, SQL
+Technologies: Next.js, React, Node.js, Supabase, Tailwind CSS
+Tools: Git, GitHub, VS Code, Figma
+
+**How to find me**
+
+Feel free to connect or reach out about development, design, or collaboration.
+
+GitHub: github.com/stephenwt28-eng
