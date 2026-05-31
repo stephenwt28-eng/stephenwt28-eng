@@ -22,9 +22,9 @@ I'm always open to discussing software development, product design, and new oppo
 
 **TECHNOLOGIES AND TOOLS**
 
-Languages: JavaScript, TypeScript, SQL
-Technologies: Next.js, React, Node.js, Postgres, Supabase, CSS
-Tools: Git, GitHub, VS Code, Figma
+- Languages: JavaScript, TypeScript, SQL
+- Technologies: Next.js, React, Node.js, Postgres, Supabase, CSS
+- Tools: Git, GitHub, VS Code, Figma
 
 **CONTACT ME!**
 
