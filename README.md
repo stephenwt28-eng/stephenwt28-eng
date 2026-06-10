@@ -8,9 +8,8 @@ I build full-stack web applications with clean architecture and sharp UX. My bac
 
 Currently based in California, building projects and sharpening my full-stack skills:
 
-- Building full-stack applications with Next.js, Supabase, and Tailwind CSS
+- Building full-stack applications with React, Next.js, Supabase, Tailwind CSS, and more
 - Developing a Cat Food Subscription App with customizable meal plans, delivery scheduling, and simulated checkout
-- Building a Task Manager with user authentication, task creation, due dates, and completion tracking
 - Working on VisionManager, an optical business management system for a Brazilian client
 - Building LearningTracker, a private dashboard for tracking topics, progress, and confidence with Row Level Security
 
